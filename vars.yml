@@ -1,0 +1,6 @@
+---
+# Update this to your own settings
+project_name: test
+project_root: /var/www/html/testing
+project_repo: https://github.com/oscarbuse/testing.git
+branch: HEAD
